@@ -1,4 +1,3 @@
-
 public class OutraClasse {
 
 	/**
@@ -6,7 +5,7 @@ public class OutraClasse {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("lol");
+		System.out.println("teste de Sync");
 	}
 
 }
